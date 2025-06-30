@@ -1,0 +1,544 @@
+# Page snapshot
+
+```yaml
+- img
+- img
+- img
+- banner:
+  - link "Skip to main content":
+    - /url: "#mainContent"
+  - navigation:
+    - text: Hi!
+    - link "Sign in":
+      - /url: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&sgfl=gh&ru=https%3A%2F%2Fwww.ebay.com%2Fitm%2F167614907733
+    - text: or
+    - link "register":
+      - /url: https://signup.ebay.com/pa/crte?ru=https%3A%2F%2Fwww.ebay.com%2Fitm%2F167614907733
+    - link "Daily Deals":
+      - /url: https://www.ebay.com/deals
+    - link "Brand Outlet":
+      - /url: https://www.ebay.com/b/Brand-Outlet/bn_7115532402
+    - link "Gift Cards":
+      - /url: https://www.ebay.com/giftcards
+    - link "Help & Contact":
+      - /url: https://www.ebay.com/help/home
+    - button "Ship to"
+    - link "Sell":
+      - /url: https://www.ebay.com/sl/sell
+    - link "Watchlist":
+      - /url: https://www.ebay.com/mye/myebay/watchlist
+    - button "Expand Watch List"
+    - link "My eBay":
+      - /url: https://www.ebay.com/mys/home?source=GBH
+    - button "Expand My eBay"
+    - button "Expand Notifications"
+    - link "Your shopping cart contains 0 items":
+      - /url: https://cart.ebay.com
+    - button "Expand Cart"
+  - link "eBay Home":
+    - /url: https://www.ebay.com
+    - img "eBay Home"
+  - button "Shop by category"
+  - text: Enter your search keyword
+  - combobox "Search for anything"
+  - combobox "Select a category for search":
+    - option "All Categories" [selected]
+    - option "Antiques"
+    - option "Art"
+    - option "Baby"
+    - option "Books"
+    - option "Business & Industrial"
+    - option "Cameras & Photo"
+    - option "Cell Phones & Accessories"
+    - option "Clothing, Shoes & Accessories"
+    - option "Coins & Paper Money"
+    - option "Collectibles"
+    - option "Computers/Tablets & Networking"
+    - option "Consumer Electronics"
+    - option "Crafts"
+    - option "Dolls & Bears"
+    - option "Movies & TV"
+    - option "eBay Motors"
+    - option "Entertainment Memorabilia"
+    - option "Gift Cards & Coupons"
+    - option "Health & Beauty"
+    - option "Home & Garden"
+    - option "Jewelry & Watches"
+    - option "Music"
+    - option "Musical Instruments & Gear"
+    - option "Pet Supplies"
+    - option "Pottery & Glass"
+    - option "Real Estate"
+    - option "Specialty Services"
+    - option "Sporting Goods"
+    - option "Sports Mem, Cards & Fan Shop"
+    - option "Stamps"
+    - option "Tickets & Experiences"
+    - option "Toys & Hobbies"
+    - option "Travel"
+    - option "Video Games & Consoles"
+    - option "Everything Else"
+  - button "Search"
+  - link "Advanced":
+    - /url: https://www.ebay.com/sch/ebayadvsearch
+- main:
+  - text: SAVE UP TO 10% WHEN YOU BUY MORE
+  - button "Previous image - Item images thumbnails" [disabled]
+  - button "Picture 1 of 20":
+    - img "Picture 1 of 20"
+  - button "Video 1 of 1":
+    - img "Video 1 of 1"
+  - button "Picture 2 of 20":
+    - img "Picture 2 of 20"
+  - button "Picture 3 of 20":
+    - img "Picture 3 of 20"
+  - button "Picture 4 of 20":
+    - img "Picture 4 of 20"
+  - button "Picture 5 of 20":
+    - img "Picture 5 of 20"
+  - button "Picture 6 of 20"
+  - button "Picture 7 of 20"
+  - button "Picture 8 of 20"
+  - button "Picture 9 of 20"
+  - button "Picture 10 of 20"
+  - button "Picture 11 of 20"
+  - button "Picture 12 of 20"
+  - button "Picture 13 of 20"
+  - button "Picture 14 of 20"
+  - button "Picture 15 of 20"
+  - button "Picture 16 of 20"
+  - button "Picture 17 of 20"
+  - button "Picture 18 of 20"
+  - button "Picture 19 of 20"
+  - button "Picture 20 of 20"
+  - button "Next image - Item images thumbnails"
+  - heading "Picture 1 of 20" [level=2]
+  - text: 96 viewed in the last 24 hours
+  - button "Previous image - Item images thumbnails"
+  - button "Opens image gallery dialog Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders - Picture 1 of 20":
+    - img "Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders - Picture 1 of 20"
+    - img "Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders - Video 1 of 1"
+    - img "Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders - Picture 2 of 20"
+    - img "Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders - Picture 3 of 20"
+    - img "Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders - Picture 4 of 20"
+    - img "Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders - Picture 5 of 20"
+    - img "Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders - Picture 6 of 20"
+    - img "Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders - Picture 7 of 20"
+    - img "Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders - Picture 8 of 20"
+    - img "Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders - Picture 9 of 20"
+    - img "Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders - Picture 10 of 20"
+    - img "Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders - Picture 11 of 20"
+    - img "Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders - Picture 12 of 20"
+    - img "Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders - Picture 13 of 20"
+    - img "Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders - Picture 14 of 20"
+    - img "Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders - Picture 15 of 20"
+    - img "Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders - Picture 16 of 20"
+    - img "Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders - Picture 17 of 20"
+    - img "Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders - Picture 18 of 20"
+    - img "Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders - Picture 19 of 20"
+    - img "Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders - Picture 20 of 20"
+  - button "Opens image gallery"
+  - button "Add to watchlist - 3 watchers": "3"
+  - button "Next image - Item images thumbnails"
+  - button "Share"
+  - heading "Similar items" [level=2]
+  - text: Sponsored
+  - link "See all":
+    - /url: https://www.ebay.com/recs?component=recs-below-hero&item_id=167614907733&algos=HOMESPLICE.SIM.SimplAMLv11WebTrimmedWithMfgPhase2WithCassiniVisualRankerAndBertRecallWithPLXSizeFilterCPCAutoManualCpcRecallsPlus&placement_title=i18n.Title_Promoted_Listing_SimilarItems&sourceModuleId=101875&homespliceOverrideConfig=%7Bsize-intent-selector-mfg.waterfall-sequence+%3D+%5B%22FASHION_GARAGE%22%5D%7D&placement_subTitle=i18n.ModuleSubTitle_Myfg
+  - link "US Men's Leather Wallet Pocket ID Card Holder Billfold Slim Clutch Bifold Purse New $8.74 Free shipping Free returns":
+    - /url: https://www.ebay.com/itm/375834445537?_trkparms=amclksrc%3DITM%26aid%3D1110006%26algo%3DHOMESPLICE.SIM%26ao%3D1%26asc%3D288651%26meid%3D8a9ef3333f3b44869890c25726f7437d%26pid%3D101875%26rk%3D1%26rkt%3D4%26sd%3D167614907733%26itm%3D375834445537%26pmt%3D1%26noa%3D0%26pg%3D2332490%26algv%3DSimplAMLv11WebTrimmedWithMfgPhase2WithCassiniVisualRankerAndBertRecallWithPLXSizeFilterCPCAutoManualCpcRecallsPlus%26brand%3DUnbranded&_trksid=p2332490.c101875.m1851&itmprp=cksum%3A3758344455378a9ef3333f3b44869890c25726f7437d%7Cenc%3AAQAKAAABYBaLpzbeHMGtcPVbIdam4VW2%252FYBzHyA0eRDLd8ZvFNAxKnfYIxZeZ2SRkn%252BbAjw7ESlOnljO3GLHAlQV%252Fy90C0oGGWDfrMyptti%252F4cwG0UauRNImxT02pqUnaHVLOKRkUYCqb72aWWtbN7H1eAY0FamRqV81K6I%252F6%252BWeQnqfYMjRPEXpSnDPvXhdWAcYXMeVGIgCK9FAICF1qh%252Bz6MkmY1J1bDxBz7Z9mbEp9xvvCGuHqqmNJbLjFgX7dsQDs9VNm24UU3vYDCDDfUPtosTpI7wqK9u0CeiAB8CaPWYX6HswV2p5e6pqtTfeoJCvCuWQGPuQD%252B09ods4R3AcGk2aeU%252FFHTCyksXB8VAJdqDxShHQPx6fGYxHEmiHVy%252Fc7DH5ciinl%252FvQFjBdz1FpB1Fw%252BcV4CmENUNOodJQJHhKmIV36JiDKJxW811jiYgGePsuzOpKt8HLRW%252F2XszfhuctLcho%253D%7Campid%3APL_CLK%7Cclp%3A2332490&itmmeta=01JYZERTKKMT5XHSCFGQM6XPM0
+    - heading "US Men's Leather Wallet Pocket ID Card Holder Billfold Slim Clutch Bifold Purse" [level=3]
+    - text: New $8.74 Free shipping Free returns
+  - button "Add Men's RFID Blocking Full Grain Leather ID Window Multi-Currency Bifold Wallet to your watch list"
+  - link "Men's RFID Blocking Full Grain Leather ID Window Multi-Currency Bifold Wallet New $16.27 Free shipping":
+    - /url: https://www.ebay.com/itm/167615501905?_trkparms=amclksrc%3DITM%26aid%3D1110006%26algo%3DHOMESPLICE.SIM%26ao%3D1%26asc%3D288651%26meid%3D8a9ef3333f3b44869890c25726f7437d%26pid%3D101875%26rk%3D2%26rkt%3D4%26sd%3D167614907733%26itm%3D167615501905%26pmt%3D1%26noa%3D0%26pg%3D2332490%26algv%3DSimplAMLv11WebTrimmedWithMfgPhase2WithCassiniVisualRankerAndBertRecallWithPLXSizeFilterCPCAutoManualCpcRecallsPlus%26brand%3DUnbranded&_trksid=p2332490.c101875.m1851&itmprp=cksum%3A1676155019058a9ef3333f3b44869890c25726f7437d%7Cenc%3AAQAKAAABYBaLpzbeHMGtcPVbIdam4VW2%252FYBzHyA0eRDLd8ZvFNAxKnfYIxZeZ2SRkn%252BbAjw7ESlOnljO3GLHAlQV%252Fy90C0oGGWDfrMyptti%252F4cwG0UauRNImxT02pqUnaHVLOKRkUYCqb72aWWtbN7H1eAY0FamRqV81K6I%252F6%252BWeQnqfYMjRQW66g43Zk0hnJIh%252BcX2QHinbnwJp--E76qr%252FwY2rmkfUbKd2aOkE6KPECDCl%252BVyR5RyQ3Dl4h7x%252BcSVoSE5HZQD18R6dIwyB5AmuwJExt4lW3jSGEYbLhVb72sb97XP8ZE2UnW%252BX7tqSZPM8EG4pkZDf94yqgxO%252B%252FJ3PbskvnGH6T36zrR2c00RuXC9MmJk56MsW2GtTLNBTHhNFd6O3bZ20oFVzIS0Si5OxHMs8D7AdgXEcuxnaPeSk8pDVbT6UA9sN2Jwpc8YcgDUwsYrlfB%252FPBpwiGW5TiBQjjREec0w%253D%7Campid%3APL_CLK%7Cclp%3A2332490&itmmeta=01JYZERTM132TXMK69590RS3VG
+    - heading "Men's RFID Blocking Full Grain Leather ID Window Multi-Currency Bifold Wallet" [level=3]
+    - text: New $16.27 Free shipping
+  - link "Genuine Leather Minimalist Bifold Wallets For Men RFID Blocking Slim Mens Wallet New $14.99 + shipping Free returns Top Rated Plus":
+    - /url: https://www.ebay.com/itm/183393702861?_trkparms=amclksrc%3DITM%26aid%3D1110006%26algo%3DHOMESPLICE.SIM%26ao%3D1%26asc%3D288651%26meid%3D8a9ef3333f3b44869890c25726f7437d%26pid%3D101875%26rk%3D3%26rkt%3D4%26sd%3D167614907733%26itm%3D183393702861%26pmt%3D1%26noa%3D1%26pg%3D2332490%26algv%3DSimplAMLv11WebTrimmedWithMfgPhase2WithCassiniVisualRankerAndBertRecallWithPLXSizeFilterCPCAutoManualCpcRecallsPlus%26brand%3DAccess%2BDenied&_trksid=p2332490.c101875.m1851&itmprp=cksum%3A1833937028618a9ef3333f3b44869890c25726f7437d%7Cenc%3AAQAKAAABQBaLpzbeHMGtcPVbIdam4VW2%252FYBzHyA0eRDLd8ZvFNAxKnfYIxZeZ2SRkn%252BbAjw7ESlOnljO3GLHAlQV%252Fy90C0oGGWDfrMyptti%252F4cwG0UauRNImxT02pqUnaHVLOKRkUYCqb72aWWtbN7H1eAY0FamRqV81K6I%252F6%252BWeQnqfYMjR9jKc7rZy4Ebd1n1DmltTznH%252FOskbOralmL%252FH3%252BEMvcmePGEInVZSX8aW00nUyMQxdM6DOcWN0vex2ZoAVlUq5FpH2R4IdBtfVg0MsXIwlNtULoFt8e8lFCwIYxIxePYWwTcbHOR2pCib1jtcJHPwKl%252FemZQQ2sXVv9x7xaqvPq0uU1Z62aGkVnEnvHbo%252FK1GsIZaLqg0HuD7mzl3OWeICBPitMBkfuYsoMeAB2lZXQt4ys1ebf%252FAMZWmmO0ltL3q%7Campid%3APLP_CLK%7Cclp%3A2332490&itmmeta=01JYZERTM3BH11Q4QTQS4RMJEK
+    - heading "Genuine Leather Minimalist Bifold Wallets For Men RFID Blocking Slim Mens Wallet" [level=3]
+    - text: New $14.99 + shipping Free returns Top Rated Plus
+  - link "Men's Leather Wallet Pocket ID Card Holder Billfold Slim Clutch Bifold Purse US New $8.74 Free shipping":
+    - /url: https://www.ebay.com/itm/353269181899?_trkparms=amclksrc%3DITM%26aid%3D1110006%26algo%3DHOMESPLICE.SIM%26ao%3D1%26asc%3D288651%26meid%3D8a9ef3333f3b44869890c25726f7437d%26pid%3D101875%26rk%3D4%26rkt%3D4%26sd%3D167614907733%26itm%3D353269181899%26pmt%3D1%26noa%3D0%26pg%3D2332490%26algv%3DSimplAMLv11WebTrimmedWithMfgPhase2WithCassiniVisualRankerAndBertRecallWithPLXSizeFilterCPCAutoManualCpcRecallsPlus%26brand%3DUnbranded&_trksid=p2332490.c101875.m1851&itmprp=cksum%3A3532691818998a9ef3333f3b44869890c25726f7437d%7Cenc%3AAQAKAAABYBaLpzbeHMGtcPVbIdam4VW2%252FYBzHyA0eRDLd8ZvFNAxKnfYIxZeZ2SRkn%252BbAjw7ESlOnljO3GLHAlQV%252Fy90C0oGGWDfrMyptti%252F4cwG0UauRNImxT02pqUnaHVLOKRkUYCqb72aWWtbN7H1eAY0FamRqV81K6I%252F6%252BWeQnqfYMjRht3wIrL%252FAAYCPgPbw4HJ%252B8oMxRpMFEwYk%252BDnAnSzTwtWxRn4qUUEtjinBGG1cUlEZtS3WncByDds46AIZBxJhd65vmTJGQKoSjUvfz8Wt9f6X1b2xT8UWiOlbYfBuhFpB8tU4oeldgpDXF7C%252BUAgui6lZX390XhrKzovPix6TyInVFhdCw5vYZosiGdjtiT%252FCK2A5UiNiYOPolHtrHSYfahlkY9oC5iBX2BCwBm%252FSZZS5Bgsfz4dzeBNIBCpANrbt1fFdfWQVJX5mwBN5cjaXMpS%252F8h0ynIMNq1Vkv1mS4I%253D%7Campid%3APL_CLK%7Cclp%3A2332490&itmmeta=01JYZERTM6B4HDZY6S1NB2RAM1
+    - heading "Men's Leather Wallet Pocket ID Card Holder Billfold Slim Clutch Bifold Purse US" [level=3]
+    - text: New $8.74 Free shipping
+  - heading "Men's Wallet Leather Billfold Slim Hipster Cowhide Credit Card/ID Holders" [level=1]
+  - link "ceylon_branded":
+    - /url: https://www.ebay.com/sch/ceylon_branded/m.html?item=167614907733&rt=nc&_trksid=p4429486.m3561.l161211
+  - text: (0)
+  - link "Seller's other items":
+    - /url: https://www.ebay.com/sch/ceylon_branded/m.html?item=167614907733&rt=nc&_trksid=p4429486.m3561.l170197
+  - link "Contact seller":
+    - /url: https://www.ebay.com/cnt/FindAnswers?ShowSellerFAQ=&item_id=167614907733&requested=ceylon_branded&redirect=0&frm=284&rt=nc&ssPageName=PageSellerM2MFAQ_VI&_trksid=p4429486.m3561.l170198&_caprdt=1
+  - button "See more about this seller"
+  - text: "US $5.83 Condition: New with tags"
+  - button "More information - About this item condition":
+    - img "More information - About this item condition"
+  - 'button "Color: Select"'
+  - text: "Quantity:"
+  - textbox "Last one 1 sold" [disabled]: "1"
+  - text: Last one 1 sold
+  - list:
+    - listitem:
+      - link "Buy It Now":
+        - /url: https://pay.ebay.com/rgxo?action=create&rypsvc=true&pagename=ryp&item=167614907733&quantity=0&TransactionId=-1
+    - listitem:
+      - link "Add to cart":
+        - /url: https://cart.payments.ebay.com/sc/add?srt=01000a000000502ba7923c6a2ded63e7e497cfac1c3f423a434a45b8cf2baf15bd533e1bc5084cc85e9ec9edc2c70b00b38c4534a08cafb6d55755cd292e5652bc375a36db9daa1117a1bafa7449cb4dccea72e4686f65&item=iid:167614907733,qty:1&ssPageName=CART:ATC
+    - listitem:
+      - link "Add to Watchlist":
+        - /url: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&ru=https%3A%2F%2Fwww.ebay.com%2Fitm%2F167614907733
+  - text: "Breathe easy. Returns accepted. People are checking this out. 3 have added this to their watchlist. Shipping: Free Standard International Shipping."
+  - button "See details for shipping"
+  - text: "Located in: Godakawela, Sri Lanka Delivery: Estimated between Mon, Jul 28 and Mon, Aug 18 to 20000"
+  - button "Information - Estimated delivery date - opens a layer"
+  - text: "Returns: 30 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount."
+  - button "See details - for more information about returns"
+  - text: "Payments:"
+  - img "PayPal"
+  - img "Google Pay"
+  - img "Visa"
+  - img "Master Card"
+  - img "Discover"
+  - img "Diners Club"
+  - heading "Shop with confidence" [level=2]
+  - text: eBay Money Back Guarantee Get the item you ordered or your money back.
+  - link "Learn more eBay Money Back Guarantee - opens new window or tab":
+    - /url: https://www.ebay.com/ebay-money-back-guarantee/
+  - img "loading"
+  - link "Report this item - opens in new window or tab":
+    - /url: https://ocswf.ebay.com/rti/compose?seller=ceylon_branded&rt=nc&rmvHdr=true&_trksid=p4429486.m2548.l2566&items=167614907733
+  - tablist:
+    - tab "About this item" [selected]:
+      - button "About this item"
+  - tabpanel "About this item":
+    - text: Seller assumes all responsibility for this listing. eBay item number:167614907733 Last updated on Jun 27, 2025 22:15:09 PDT
+    - link "View all revisions View all revisions":
+      - /url: https://www.ebay.com/rvh/167614907733?rt=nc&_trksid=p4429486.m148105.l48144
+    - heading "Item specifics" [level=2]
+    - term: Condition
+    - definition:
+      - text: "New with tags: A brand-new, unused, and unworn item (including handmade items) in the original ..."
+      - button "Read more about the condition"
+    - term: Feature 1
+    - definition: Fashion Mini Magic Wallet
+    - term: Feature 3
+    - definition: Men Fashion Bifold Wallet
+    - term: Feature 2
+    - definition: Men Stylish Card Holder Coin Wallet
+    - term: Year Manufactured
+    - definition: 2020-2029
+    - term: Interior
+    - definition: Interior Compartment,Passcard Pocket,Note Compartment
+    - term: Feature 5
+    - definition: wallet Men simple
+    - term: Fabric Type
+    - definition: Polyster
+    - term: Item Length
+    - definition: 11.5 cm
+    - term: Feature 4
+    - definition: wallet Men luxury wallets
+    - term: Feature 7
+    - definition: Men Section Zip Business Leather Wallet Card Coin Wallet Purse
+    - term: Material Composition
+    - definition: PU
+    - term: Feature 6
+    - definition: Men Fashion Leather Billfold Purse Handbag
+    - term: Feature 9
+    - definition: business Men wallets leather
+    - term: Vintage
+    - definition: "Yes"
+    - term: Feature 8
+    - definition: wallet Men ID credit Card holder
+    - term: Personalize
+    - definition: "No"
+    - term: Department
+    - definition: Men
+    - term: Wallets
+    - definition: Standard Wallets
+    - term: High-concerned Chemical
+    - definition: None
+    - term: Style
+    - definition: Bifold
+    - term: Features
+    - definition: Credit Card, Folding
+    - term: Handmade
+    - definition: "No"
+    - term: Item Width
+    - definition: 2 cm
+    - term: Pattern
+    - definition: Solid
+    - term: Lining Material
+    - definition: POLYESTER
+    - term: Material
+    - definition: Leather
+    - term: Decoration
+    - definition: None
+    - term: Brand
+    - definition: Unbranded
+    - term: Type
+    - definition: Wallet
+    - term: Theme
+    - definition: Hipster
+    - term: Country/Region of Manufacture
+    - definition: China
+    - term: Feature 10
+    - definition: Men Fashion Billfold Purse Wallet Handbag
+    - heading "Item description from the seller" [level=2]
+    - iframe
+  - text: About this seller
+  - heading "ceylon_branded" [level=2]:
+    - link "ceylon_branded":
+      - /url: https://www.ebay.com/sch/ceylon_branded/m.html?item=167614907733&rt=nc&_trksid=p4429486.m145687.l2562
+  - heading "1 item sold" [level=4]
+  - text: Joined Jun 2021
+  - link "Seller's other items":
+    - /url: https://www.ebay.com/sch/ceylon_branded/m.html?item=167614907733&rt=nc&_trksid=p4429486.m145687.l2562
+  - link "Contact":
+    - /url: https://www.ebay.com/cnt/FindAnswers?ShowSellerFAQ=&item_id=167614907733&requested=ceylon_branded&redirect=0&frm=284&rt=nc&ssPageName=PageSellerM2MFAQ_VI&_trksid=p4429486.m145687.l149087&_caprdt=1
+  - button "Save seller - Save this seller ceylon_branded": Save seller
+  - heading "Seller Feedback" [level=2]
+  - text: No feedback yet This is a private listing and your identity will not be disclosed to anyone except the seller.
+  - navigation "Quick Links":
+    - link "Back to previous page":
+      - /url: https://www.ebay.com/splashui/challenge?ap=1&appName=orch&ru=https%3A%2F%2Fwww.ebay.com%2Fitm%2F167614907733&iid=51840093-a754-4feb-aa4a-535de76026db&iim=YMTEyLjm&iia=qJEzNS42yQ&iiz=zchNy4yNTQ*Fvr
+    - button "Return to top"
+  - navigation "breadcrumb":
+    - heading "breadcrumb" [level=2]
+    - list:
+      - listitem:
+        - link "Clothing, Shoes & Accessories":
+          - /url: https://www.ebay.com/b/Clothing-Shoes-Accessories/11450/bn_1852545
+      - listitem:
+        - link "Men":
+          - /url: https://www.ebay.com/b/Mens-Clothing-Shoes-Accessories/260012/bn_7116419459
+      - listitem:
+        - link "Men's Accessories":
+          - /url: https://www.ebay.com/b/Mens-Accessories/4250/bn_1642245
+      - listitem:
+        - link "Wallets":
+          - /url: https://www.ebay.com/b/Mens-Wallets/2996/bn_739214
+  - heading "More to explore :" [level=2]
+  - list:
+    - listitem:
+      - link "Leather Men's Hipster Wallets with Credit Card,":
+        - /url: https://www.ebay.com/b/Leather-Mens-Hipster-Wallets-with-Credit-Card/2996/bn_8234774
+    - listitem:
+      - link "Men's Hipster Wallets with Credit Card,":
+        - /url: https://www.ebay.com/b/Mens-Hipster-Wallets-with-Credit-Card/2996/bn_8234392
+    - listitem:
+      - link "Men's Hipster Plastic Wallets with Credit Card,":
+        - /url: https://www.ebay.com/b/Mens-Hipster-Plastic-Wallets-with-Credit-Card/2996/bn_14764721
+    - listitem:
+      - link "Unbranded Men's Hipster Wallets with Credit Card,":
+        - /url: https://www.ebay.com/b/Unbranded-Mens-Hipster-Wallets-with-Credit-Card/2996/bn_108297056
+    - listitem:
+      - link "Leather Credit Card Wallets for Men,":
+        - /url: https://www.ebay.com/b/Leather-Credit-Card-Wallets-for-Men/2996/bn_4738609
+    - listitem:
+      - link "Men's Credit Card Wallets,":
+        - /url: https://www.ebay.com/b/Mens-Credit-Card-Wallets/2996/bn_864584
+    - listitem:
+      - link "Leather Hipster Wallets for Men,":
+        - /url: https://www.ebay.com/b/Leather-Hipster-Wallets-for-Men/2996/bn_8234262
+    - listitem:
+      - link "Montblanc Men's Leather Wallets with Credit Card,":
+        - /url: https://www.ebay.com/b/Montblanc-Mens-Leather-Wallets-with-Credit-Card/2996/bn_108297046
+    - listitem:
+      - link "Leather Biker Men's Wallets with Credit Card,":
+        - /url: https://www.ebay.com/b/Leather-Biker-Mens-Wallets-with-Credit-Card/2996/bn_8234285
+    - listitem:
+      - link "Quiksilver Men's Leather Wallets with Credit Card":
+        - /url: https://www.ebay.com/b/Quiksilver-Mens-Leather-Wallets-with-Credit-Card/2996/bn_8234505
+  - heading "Shop the Latest Sneakers" [level=2]
+  - heading "Best Sellers" [level=3]
+  - list:
+    - listitem:
+      - link "Jordan 5 Retro 2025 Grape":
+        - /url: https://www.ebay.com/b/Jordan-5-Retro-2025-Grape/15709/bn_7124565276
+    - listitem:
+      - link "Jordan 4 Retro OG 2025 White Cement":
+        - /url: https://www.ebay.com/b/Jordan-4-Retro-OG-2025-White-Cement/15709/bn_7124557223
+    - listitem:
+      - link "Jordan 3 Retro OG Rare":
+        - /url: https://www.ebay.com/b/Jordan-3-Retro-OG-Rare/15709/bn_7124560380
+    - listitem:
+      - link "Nike SB x Air Jordan 4 Retro SP Navy":
+        - /url: https://www.ebay.com/b/Nike-SB-x-Air-Jordan-4-Retro-SP-Navy/15709/bn_7122103177
+    - listitem:
+      - link "Jordan 1 SE 2025 Mid New Love":
+        - /url: https://www.ebay.com/b/Jordan-1-SE-2025-Mid-New-Love/15709/bn_7124563440
+  - heading "Recent Releases" [level=3]
+  - list:
+    - listitem:
+      - link "A Ma Maniére x Air Jordan 5 Retro OG Violet Ore":
+        - /url: https://www.ebay.com/b/A-Ma-Maniere-x-Air-Jordan-5-Retro-OG-Violet-Ore/15709/bn_7124564288
+    - listitem:
+      - link "Nike Supreme x GOODENOUGH x Air Force 1 Low White Cheetah Print":
+        - /url: https://www.ebay.com/b/Nike-Supreme-x-GOODENOUGH-x-Air-Force-1-Low-White-Cheetah-Print/15709/bn_7124701715
+    - listitem:
+      - link "Nike Supreme x GOODENOUGH x Air Force 1 Low White Cheetah Print":
+        - /url: https://www.ebay.com/b/Nike-Supreme-x-GOODENOUGH-x-Air-Force-1-Low-White-Cheetah-Print/15709/bn_7124705504
+    - listitem:
+      - link "Jordan 3 Retro OG Rare":
+        - /url: https://www.ebay.com/b/Jordan-3-Retro-OG-Rare/15709/bn_7124560380
+    - listitem:
+      - link "Jordan 4 Retro OG 2025 White Cement":
+        - /url: https://www.ebay.com/b/Jordan-4-Retro-OG-2025-White-Cement/15709/bn_7124557223
+  - heading "Air Jordan" [level=3]
+  - list:
+    - listitem:
+      - link "Jordan 1":
+        - /url: https://www.ebay.com/b/Jordan-1/15709/bn_98034994
+    - listitem:
+      - link "Jordan 4":
+        - /url: https://www.ebay.com/b/Jordan-4/15709/bn_98034454
+    - listitem:
+      - link "Jordan 11":
+        - /url: https://www.ebay.com/b/Jordan-11/15709/bn_98035912
+    - listitem:
+      - link "Jordan 12":
+        - /url: https://www.ebay.com/b/Jordan-12/15709/bn_98034889
+    - listitem:
+      - link "Jordan 13":
+        - /url: https://www.ebay.com/b/Jordan-13/15709/bn_98035446
+  - heading "Yeezy" [level=3]
+  - list:
+    - listitem:
+      - link "Yeezy Slide":
+        - /url: https://www.ebay.com/b/adidas-Yeezy-Slide/15709/bn_7118671215
+    - listitem:
+      - link "Yeezy Foam RNNR":
+        - /url: https://www.ebay.com/b/Yeezy-Foam-RNNR/15709/bn_7117868160
+    - listitem:
+      - link "Yeezy 700":
+        - /url: https://www.ebay.com/b/Yeezy-Boost-700/15709/bn_98035820
+    - listitem:
+      - link "Yeezy 350":
+        - /url: https://www.ebay.com/b/Yeezy-Boost-350/15709/bn_98035262
+    - listitem:
+      - link "Yeezy 500":
+        - /url: https://www.ebay.com/b/Yeezy-500/15709/bn_98035034
+  - heading "Top Brands" [level=3]
+  - list:
+    - listitem:
+      - link "New Balance":
+        - /url: https://www.ebay.com/b/New-Balance-Sneakers-for-Men/15709/bn_58747
+    - listitem:
+      - link "Gucci":
+        - /url: https://www.ebay.com/b/Gucci-Casual-Shoes-for-Men/24087/bn_60133
+    - listitem:
+      - link "Vans":
+        - /url: https://www.ebay.com/b/VANS-Sneakers-for-Men/15709/bn_59307
+    - listitem:
+      - link "Skechers":
+        - /url: https://www.ebay.com/b/Skechers-Sneakers-for-Men/15709/bn_59133
+    - listitem:
+      - link "Reebok":
+        - /url: https://www.ebay.com/b/Reebok-Sneakers-for-Men/15709/bn_59027
+  - heading "Related Searches" [level=2]
+  - list:
+    - listitem:
+      - link "Slim Leather Id Wallet":
+        - /url: https://www.ebay.com/shop/slim-leather-id-wallet?_nkw=slim+leather+id+wallet
+    - listitem:
+      - link "Cowhide Wallet":
+        - /url: https://www.ebay.com/shop/cowhide-wallet?_nkw=cowhide+wallet
+    - listitem:
+      - link "Leather Card Holder Slim":
+        - /url: https://www.ebay.com/shop/leather-card-holder-slim?_nkw=leather+card+holder+slim
+    - listitem:
+      - link "Credit Card Holder for Men":
+        - /url: https://www.ebay.com/shop/credit-card-holder-for-men?_nkw=credit+card+holder+for+men
+    - listitem:
+      - link "Mens Hipster Wallet":
+        - /url: https://www.ebay.com/shop/mens-hipster-wallet?_nkw=mens+hipster+wallet
+    - listitem:
+      - link "Leather Credit Card Holder":
+        - /url: https://www.ebay.com/shop/leather-credit-card-holder?_nkw=leather+credit+card+holder
+    - listitem:
+      - link "Mens Credit Card Holder":
+        - /url: https://www.ebay.com/shop/mens-credit-card-holder?_nkw=mens+credit+card+holder
+    - listitem:
+      - link "Mens Wallet Billfold":
+        - /url: https://www.ebay.com/shop/mens-wallet-billfold?_nkw=mens+wallet+billfold
+    - listitem:
+      - link "Mens Billfold Wallet":
+        - /url: https://www.ebay.com/shop/mens-billfold-wallet?_nkw=mens+billfold+wallet
+    - listitem:
+      - link "Id Wallet for Men":
+        - /url: https://www.ebay.com/shop/id-wallet-for-men?_nkw=id+wallet+for+men
+    - listitem:
+      - link "Billfolds for Men":
+        - /url: https://www.ebay.com/shop/billfolds-for-men?_nkw=billfolds+for+men
+    - listitem:
+      - link "Leather Bill Fold":
+        - /url: https://www.ebay.com/shop/leather-bill-fold?_nkw=leather+bill+fold
+    - listitem:
+      - link "Leather Slim Card Wallet":
+        - /url: https://www.ebay.com/shop/leather-slim-card-wallet?_nkw=leather+slim+card+wallet
+    - listitem:
+      - link "Card Holder Wallet Mens":
+        - /url: https://www.ebay.com/shop/card-holder-wallet-mens?_nkw=card+holder+wallet+mens
+    - listitem:
+      - link "Black Leather Wallet Mens":
+        - /url: https://www.ebay.com/shop/black-leather-wallet-mens?_nkw=black+leather+wallet+mens
+  - img
+- contentinfo:
+  - list:
+    - listitem:
+      - link "About eBay":
+        - /url: https://www.ebayinc.com
+    - listitem:
+      - link "Announcements":
+        - /url: https://community.ebay.com/t5/Announcements/bg-p/Announcements
+    - listitem:
+      - link "Community":
+        - /url: https://community.ebay.com
+    - listitem:
+      - link "Security Center":
+        - /url: https://pages.ebay.com/securitycenter/index.html
+    - listitem:
+      - link "Seller Center":
+        - /url: https://www.ebay.com/sellercenter
+    - listitem:
+      - link "Policies":
+        - /url: https://www.ebay.com/help/policies/default/ebays-rules-policies?id=4205
+    - listitem:
+      - link "Affiliates":
+        - /url: https://partnernetwork.ebay.com/
+    - listitem:
+      - link "Help & Contact":
+        - /url: https://www.ebay.com/help/home
+    - listitem:
+      - link "Site Map":
+        - /url: https://pages.ebay.com/sitemap.html
+  - text: Copyright © 1995-2025 eBay Inc. All Rights Reserved.
+  - link "Accessibility":
+    - /url: https://www.ebayinc.com/accessibility/
+  - text: ","
+  - link "User Agreement":
+    - /url: https://www.ebay.com/help/policies/member-behaviour-policies/user-agreement?id=4259
+  - text: ","
+  - link "Privacy":
+    - /url: https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260
+  - text: ","
+  - link "Consumer Health Data":
+    - /url: https://www.ebayinc.com/company/privacy-center/privacy-notice/consumer-health-data-privacy-policy/
+  - text: ","
+  - link "Payments Terms of Use":
+    - /url: https://pages.ebay.com/payment/2.0/terms.html
+  - text: ","
+  - link "Cookies":
+    - /url: https://www.ebay.com/help/policies/member-behaviour-policies/ebay-cookie-notice?id=4267
+  - text: ","
+  - link "CA Privacy Notice":
+    - /url: https://www.ebayinc.com/company/privacy-center/privacy-notice/state-privacy-disclosures/#california
+  - text: ","
+  - link "Your Privacy Choices":
+    - /url: https://www.ebay.com/adchoice/ccpa
+  - text: and
+  - link "AdChoice":
+    - /url: https://www.ebay.com/adchoice
+- img
+```
