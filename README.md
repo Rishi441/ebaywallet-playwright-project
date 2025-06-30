@@ -30,7 +30,7 @@ The manual testing scenario focuses on a shopper buying a wallet on eBay. Key as
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/Rishi441/ebaywallet-playwright-project.git
     cd qa-skills-assessment
     ```
 
